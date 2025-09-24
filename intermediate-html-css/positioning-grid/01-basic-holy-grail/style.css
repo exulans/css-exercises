@@ -26,12 +26,10 @@ html {
 .header {
   background-color: #006157;
   grid-column: 1 / 3;
-  grid-row: 1 / 2;
 }
 
 .sidebar {
   background-color: #005B94;
-  grid-column: 1 / 2;
   grid-row: 2 / 4;
 }
 
